@@ -9,6 +9,8 @@ import java.util.List;
  *
  * @modifications
  * - Changed the country data print statements in main() to iterate over the whole collection.
+ *
+ * note: Please take a look at the CountryDB class
  */
 public class Main {
 	public static void main(String[] args) {
